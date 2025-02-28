@@ -32,6 +32,6 @@ This repository contains the complete **source code** and **resources** for my *
 📫 **Email:** kghimire@unomaha.edu  
 💼 **LinkedIn:** https://www.linkedin.com/in/kalyan-ghimire/
 
-📂 **Portfolio:** 
+📂 **Portfolio:** https://kalyanghimire.github.io/kalyan_ghimire.io/
 
 Feel free to explore this repository, check out my projects, and connect with me! 🚀  
